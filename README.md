@@ -1,3 +1,5 @@
+
+<img src="https://i.imgur.com/PTEvFh6.jpeg" alt="banner" style="width:100%;"/>
 <h1 align="center">Hi there 👋 I'm a passionate developer and game modder!</h1>
 
 <p align="center">
