@@ -28,9 +28,6 @@ I love solving complex problems, building systems from scratch, and designing in
   <summary>📓 42 Cursus</summary>
 
 </br>
-<a href="https://github.com/Nimon77/badge42">
-  <img src="https://badge.nimon.fr/api/v2/cmae8x59h3770401p8yt4vzme5/stats?cursusId=21&coalitionId=47" alt="juperez's 42 stats" />
-</a>
 
 #### 🚀 Projects
 
@@ -43,18 +40,6 @@ I love solving complex problems, building systems from scratch, and designing in
 - 🖨️ [`ft_printf`](https://github.com/FonWasH/ft_printf): Custom `printf` implementation
 - 📜 [`get_next_line`](https://github.com/FonWasH/get_next_line): Read a file line by line
 - 🔧 [`libft`](https://github.com/FonWasH/libft): A custom standard C Library
-
-#### 🧪 Exams
-
-| Exams | Score |
-| ----- | ----- |
-| Exam Rank 04 | [![juperez's 42 Exam Rank 04 Score](https://badge.nimon.fr/api/v2/cmae8x59h3770401p8yt4vzme5/project/4104753)](https://github.com/Nimon77/badge42) |
-| Exam Rank 03 | [![juperez's 42 Exam Rank 03 Score](https://badge.nimon.fr/api/v2/cmae8x59h3770401p8yt4vzme5/project/3779677)](https://github.com/Nimon77/badge42) |
-| Exam Rank 02 | [![juperez's 42 Exam Rank 02 Score](https://badge.nimon.fr/api/v2/cmae8x59h3770401p8yt4vzme5/project/3701886)](https://github.com/Nimon77/badge42) |
-| C Piscine Final Exam | [![juperez's 42 C Piscine Final Exam Score](https://badge.nimon.fr/api/v2/cmae8x59h3770401p8yt4vzme5/project/3567820)](https://github.com/Nimon77/badge42) |
-| C Piscine Exam 02 | [![juperez's 42 C Piscine Exam 02 Score](https://badge.nimon.fr/api/v2/cmae8x59h3770401p8yt4vzme5/project/3556233)](https://github.com/Nimon77/badge42) |
-| C Piscine Exam 01 | [![juperez's 42 C Piscine Exam 01 Score](https://badge.nimon.fr/api/v2/cmae8x59h3770401p8yt4vzme5/project/3546635)](https://github.com/Nimon77/badge42) |
-| C Piscine Exam 00 | [![juperez's 42 C Piscine Exam 00 Score](https://badge.nimon.fr/api/v2/cmae8x59h3770401p8yt4vzme5/project/3529069)](https://github.com/Nimon77/badge42) |
 
 </details>
 
