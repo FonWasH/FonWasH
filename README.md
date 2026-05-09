@@ -10,10 +10,6 @@
       src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,bash"
     />
   </a>
-  </br></br>
-  <a href="https://github.com/FonWasH">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FonWasH&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
 </p>
 
 ---
