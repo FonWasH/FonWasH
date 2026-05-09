@@ -47,4 +47,3 @@ I love solving complex problems, building systems from scratch, and designing in
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:fonwash@gmail.com)
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discord.com/users/242670125260472330)
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://i.pinimg.com/736x/97/38/b8/9738b8d813d30977a0d73f854665b096.jpg)
